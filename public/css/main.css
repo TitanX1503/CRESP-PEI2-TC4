@@ -1,0 +1,13 @@
+body
+{
+    background-color: black;
+
+    background-image: url(/img/iceland-flag-png-large.png);
+}
+
+h1
+{
+    font-family: sans-serif;
+
+    color: white;
+}
